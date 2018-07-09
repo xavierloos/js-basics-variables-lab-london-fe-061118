@@ -4,4 +4,5 @@ it('is set as Scuber', function () {
 });
 const companyName='Scuber';
 var mostProfitableNeighborhood= 'Chelsea'
+var companyCeo=''
 
